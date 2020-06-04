@@ -23,7 +23,7 @@ Se montou o circuito, incluir fotos da placa/protoboard
 
 * **Pedro Henrique Borges Monici(10816732)** - [pedromonici](https://github.com/pedromonici)
 
-* **Tulio S Ramos()** - [pedromonici](https://github.com/pedromonici)
+* **Tulio Santana Ramos(11795526)** - [Tulip-bcc](https://github.com/Tulip-bcc)
 
 
 
