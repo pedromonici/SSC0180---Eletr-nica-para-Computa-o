@@ -1,2 +1,2 @@
-# SSC0180---Eletr-nica-para-Computa-o
+# SSC0180---Eletrônica para Computação
 Trabalhos da Disciplina de Eletrônica para Computação
