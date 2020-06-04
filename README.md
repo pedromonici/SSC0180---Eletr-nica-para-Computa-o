@@ -17,9 +17,14 @@ Se montou o circuito, incluir fotos da placa/protoboard
 
 
 ## Participantes:
-Pedro Henrique Borges Monici
-Tulio S Ramos
-Gabriel Dertoni
-Eduado H P Silva
+* **Gabriel da Cunha Dertoni(11795717)** - [GabrielDertoni](https://github.com/GabrielDertoni)
+
+* **Eduardo Henrique Porto Silva(11796656)**  - [EduardoPortoSilva](https://github.com/EduardoPortoSilva)
+
+* **Pedro Henrique Borges Monici(10816732)** - [pedromonici](https://github.com/pedromonici)
+
+* **Tulio S Ramos()** - [pedromonici](https://github.com/pedromonici)
+
+
 
 
