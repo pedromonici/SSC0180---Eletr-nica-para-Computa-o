@@ -1,7 +1,6 @@
-# SSC0180---Eletrônica para Computação
-Trabalhos da Disciplina de Eletrônica para Computação
+# SSC0180---Projeto#1: Fonte de Tensão
 
-TRABALHO #1:
+DESCRIÇÃO:
 Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 
 Software;
