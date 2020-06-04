@@ -3,11 +3,11 @@
 ## DESCRIÇÃO:
 Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 
-## Diagrama da Fonte com os valores dos componentes escolhidos
+## Diagrama da Fonte
 
 ( IMAGEM AQUI DO CIRCUITO )
 
-## Link para o circuito no Falstad ou outro simulador
+## Link para o circuito
 
 
 ##Projeto do Esquemático e do PCB no EAGLE
