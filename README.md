@@ -26,7 +26,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
   
   A partir da datasheet da "Texas Instruments", obtêm-se a fórmula:
 
-  <center>![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D%20%3D%201.25%5Ccdot%20%5Cleft%20%28%201%20&plus;%20%5Cfrac%7BR2%7D%7BR1%7D%20%5Cright%20%29&plus;%5Cleft%20%28%2050%5Ccdot%2010%5E%7B-6%7D%5Ccdot%20R2%20%5Cright%20%29)</center>
+  ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D%20%3D%201.25%5Ccdot%20%5Cleft%20%28%201%20&plus;%20%5Cfrac%7BR2%7D%7BR1%7D%20%5Cright%20%29&plus;%5Cleft%20%28%2050%5Ccdot%2010%5E%7B-6%7D%5Ccdot%20R2%20%5Cright%20%29)
 	
   Onde:
 	- ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D) é a tensão de saída.
@@ -36,6 +36,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
   Assim, para obter ![equation](https://latex.codecogs.com/gif.latex?3V) na saída com o potênciometro em seu valor mínimo e ![equation](https://latex.codecogs.com/gif.latex?12V) com o potênciometro em seu valor máximo, os seguintes valores são necessários para satisfazer a equação:
   
   Para ![equation](https://latex.codecogs.com/gif.latex?3V), o potêncimetro deve estar em um valor próximo de ![equation](https://latex.codecogs.com/gif.latex?3V). Logo, ![equation](https://latex.codecogs.com/gif.latex?R1%5Ccong%20714%5COmega).
+
   E para ![equation](https://latex.codecogs.com/gif.latex?12V), utilizando ![equation](https://latex.codecogs.com/gif.latex?714%5COmega), ![equation](https://latex.codecogs.com/gif.latex?R1%20%5Ccong%206k%5COmega).
 	
 
