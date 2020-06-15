@@ -51,7 +51,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 * Resistor 1kΩ - R$ 0,08
 * Resistor 700Ω (a partir de (1x) 1kΩ + (1x) 100Ω em paralelo com (2x) 220Ω + (1x) 100Ω) - R$ 0,40
 * LM 317 - R$ 2,75
-**TOTAL: R$ 5,85**
+* **TOTAL: R$ 5,85**
 
 ## Participantes:
 * **Gabriel da Cunha Dertoni(11795717)** - [GabrielDertoni](https://github.com/GabrielDertoni)
