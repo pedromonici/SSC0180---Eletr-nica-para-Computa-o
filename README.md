@@ -17,9 +17,9 @@ http://tinyurl.com/ydc6hb5x
   
   ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3D%20%5Cfrac%7B1%7D%7B2.f.C.R%7D) 
   
-  Assumindo um ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V) pequeno, isto é, ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%3C%5Cfrac%7B1%7D%7B100%7D) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
+  Assumindo ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3C%201%25) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
   
-  ![equation](https://latex.codecogs.com/gif.latex?C%20%3E%20%5Cfrac%7B1%7D%7B12%7D%5Ccdot%2010%5E%7B-4%7D%5CRightarrow%20C%3E8.3%5Ccdot%2010%5E%7B-5%7D)
+  ![equation](https://latex.codecogs.com/gif.latex?C%20%3C%20%5Cfrac%7B1%7D%7B12%7D%5Ccdot%2010%5E%7B-4%7D%5Ccong%208.3%5Ccdot%2010%5E%7B5%7D)
   
   Dessa forma, um Capacitor de ![equation](https://latex.codecogs.com/gif.latex?80%5Cmu%20F) é suficiente para a fonte do projeto.
 
@@ -36,13 +36,23 @@ http://tinyurl.com/ydc6hb5x
   
   Assim, para obter ![equation](https://latex.codecogs.com/gif.latex?3V) na saída com o potênciometro em seu valor mínimo e ![equation](https://latex.codecogs.com/gif.latex?12V) com o potênciometro em seu valor máximo, os seguintes valores são necessários para satisfazer a equação:
   
-  Para ![equation](https://latex.codecogs.com/gif.latex?3V), o potêncimetro deve estar em um valor próximo de ![equation](https://latex.codecogs.com/gif.latex?1k%5COmega). Logo, ![equation](https://latex.codecogs.com/gif.latex?R1%5Ccong%20714%5COmega).
+  Para ![equation](https://latex.codecogs.com/gif.latex?3V), o potêncimetro deve estar em um valor próximo de ![equation](https://latex.codecogs.com/gif.latex?3V). Logo, ![equation](https://latex.codecogs.com/gif.latex?R1%5Ccong%20714%5COmega).
 
   E para ![equation](https://latex.codecogs.com/gif.latex?12V), utilizando ![equation](https://latex.codecogs.com/gif.latex?714%5COmega), ![equation](https://latex.codecogs.com/gif.latex?R1%20%5Ccong%206k%5COmega).
 	
 
 ->E um video mostrando o Projeto funcionando ou simulando e explicando porque escolheu os valores dos componentes (Upa no Youtube e poe um link no teu Github).
 
+## Componentes:
+* Diodo (x6) - R$ 0,66
+* Transformador 110v para 12v - R$ 35,00
+* Capacitor 100μF - R$ 0,10
+* Capacitor 10μF (x3) - R$ 0,42
+* Potenciômetro 6kΩ - R$ 1,09
+* Resistor 1kΩ - R$ 0,08
+* Resistor 700Ω (a partir de (1x) 1kΩ + (1x) 100Ω em paralelo com (2x) 220Ω + (1x) 100Ω) - R$ 0,40
+* LM 317 - R$ 2,75
+**TOTAL: R$ 5,85**
 
 ## Participantes:
 * **Gabriel da Cunha Dertoni(11795717)** - [GabrielDertoni](https://github.com/GabrielDertoni)
