@@ -52,7 +52,7 @@ http://tinyurl.com/ydc6hb5x
 * Resistor 1kΩ - R$ 0,08
 * Resistor 700Ω (a partir de (1x) 1kΩ + (1x) 100Ω em paralelo com (2x) 220Ω + (1x) 100Ω) - R$ 0,40
 * LM 317 - R$ 2,75
-* **TOTAL: R$ 5,85**
+* **TOTAL: R$ 40,50**
 
 ## Participantes:
 * **Gabriel da Cunha Dertoni(11795717)** - [GabrielDertoni](https://github.com/GabrielDertoni)
