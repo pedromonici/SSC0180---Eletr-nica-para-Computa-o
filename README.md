@@ -16,7 +16,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
   
   ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3D%20%5Cfrac%7B1%7D%7B2.f.C.R%7D) 
   
-  Assumindo ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3C%201%25) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
+  Assumindo um ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V) pequeno, isto é, ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%3C%5Cfrac%7B1%7D%7B100%7D) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
   
   ![equation](https://latex.codecogs.com/gif.latex?C%20%3E%20%5Cfrac%7B1%7D%7B12%7D%5Ccdot%2010%5E%7B-4%7D%5CRightarrow%20C%3E8.3%5Ccdot%2010%5E%7B-5%7D)
   
