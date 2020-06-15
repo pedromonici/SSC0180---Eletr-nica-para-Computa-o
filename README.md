@@ -18,7 +18,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
   
   Assumindo ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3C%201%25) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
   
-  ![equation](https://latex.codecogs.com/gif.latex?C%20%3C%20%5Cfrac%7B1%7D%7B12%7D%5Ccdot%2010%5E%7B-4%7D%5Ccong%208.3%5Ccdot%2010%5E%7B5%7D)
+  ![equation](https://latex.codecogs.com/gif.latex?C%20%3E%20%5Cfrac%7B1%7D%7B12%7D%5Ccdot%2010%5E%7B-4%7D%5CRightarrow%20C%3E8.3%5Ccdot%2010%5E%7B-5%7D)
   
   Dessa forma, um Capacitor de ![equation](https://latex.codecogs.com/gif.latex?80%5Cmu%20F) é suficiente para a fonte do projeto.
 
