@@ -43,7 +43,7 @@ http://tinyurl.com/ydc6hb5x
 
 ->E um video mostrando o Projeto funcionando ou simulando e explicando porque escolheu os valores dos componentes (Upa no Youtube e poe um link no teu Github).
 
-## Componentes:
+### Componentes:
 * Diodo (x6) - R$ 0,66
 * Transformador 110v para 12v - R$ 35,00
 * Capacitor 100μF - R$ 0,10
