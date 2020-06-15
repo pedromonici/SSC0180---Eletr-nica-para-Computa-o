@@ -40,8 +40,8 @@ http://tinyurl.com/ydc6hb5x
 
   E para ![equation](https://latex.codecogs.com/gif.latex?12V), utilizando ![equation](https://latex.codecogs.com/gif.latex?714%5COmega), ![equation](https://latex.codecogs.com/gif.latex?R1%20%5Ccong%206k%5COmega).
 	
-
-->E um video mostrando o Projeto funcionando ou simulando e explicando porque escolheu os valores dos componentes (Upa no Youtube e poe um link no teu Github).
+### Video da simulação do projeto
+(video)
 
 ### Componentes:
 * Diodo (x6) - R$ 0,66
