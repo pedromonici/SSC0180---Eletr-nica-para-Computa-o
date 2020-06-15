@@ -8,6 +8,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 ![Circuito](circuito.png)
 
 ### Link para o circuito
+http://tinyurl.com/ydc6hb5x
 
 ### Explicação dos valores escolhidos:
 - Capacitor:
@@ -24,14 +25,14 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 
 - Circuito Regulador de Tensão:
   
-  A partir da datasheet da "Texas Instruments", obtêm-se a fórmula:
+  A partir da datasheet da "Texas Instruments"(https://tinyurl.com/y7voskoq), obtêm-se a fórmula:
 
   ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D%20%3D%201.25%5Ccdot%20%5Cleft%20%28%201%20&plus;%20%5Cfrac%7BR2%7D%7BR1%7D%20%5Cright%20%29&plus;%5Cleft%20%28%2050%5Ccdot%2010%5E%7B-6%7D%5Ccdot%20R2%20%5Cright%20%29)
 	
   Onde:
 	- ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D) é a tensão de saída.
-	- ![equation](https://latex.codecogs.com/gif.latex?R1) é o resistor.
-	- ![equation](https://latex.codecogs.com/gif.latex?R2) é a resistência entre as pernas do potênciometro.
+	- ![equation](https://latex.codecogs.com/gif.latex?R1) é um resistor.
+	- ![equation](https://latex.codecogs.com/gif.latex?R2) é a resistência do potênciometro.
   
   Assim, para obter ![equation](https://latex.codecogs.com/gif.latex?3V) na saída com o potênciometro em seu valor mínimo e ![equation](https://latex.codecogs.com/gif.latex?12V) com o potênciometro em seu valor máximo, os seguintes valores são necessários para satisfazer a equação:
   
