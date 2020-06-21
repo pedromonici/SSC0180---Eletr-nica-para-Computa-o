@@ -60,7 +60,7 @@ https://youtu.be/yiT338iD_G4
 
 ## PCB do circuito no EAGLE
 
-(imagem aqui)
+![Circuito](pcb.png)
 
 ## Participantes:
 * **Gabriel da Cunha Dertoni(11795717)** - [GabrielDertoni](https://github.com/GabrielDertoni)
