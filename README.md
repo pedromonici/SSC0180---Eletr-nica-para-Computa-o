@@ -54,6 +54,14 @@ https://youtu.be/yiT338iD_G4
 * LM 317 - R$ 2,75
 * **TOTAL: R$ 40,50**
 
+## Esquemático do circuito no EAGLE
+
+(imagem aqui)
+
+## PCB do circuito no EAGLE
+
+(imagem aqui)
+
 ## Participantes:
 * **Gabriel da Cunha Dertoni(11795717)** - [GabrielDertoni](https://github.com/GabrielDertoni)
 
