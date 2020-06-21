@@ -56,7 +56,7 @@ https://youtu.be/yiT338iD_G4
 
 ## Esquemático do circuito no EAGLE
 
-(imagem aqui)
+![Circuito](esquematico.png)
 
 ## PCB do circuito no EAGLE
 
