@@ -5,7 +5,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 
 ## Diagrama da Fonte
 
-![Circuito](cirtcuito.png)
+![Circuito](circuito.png)
 
 ### Link para o circuito
 http://tinyurl.com/yacq4228
@@ -54,7 +54,7 @@ https://youtu.be/yiT338iD_G4
 * Resistor 110Ω - R$ 0,12
 * Resistor 1kΩ - R$ 0,08
 * LM 317 - R$ 2,75
-* **TOTAL: R$ 38,96**
+* **TOTAL: R$ 40,50**
 
 ## Esquemático do circuito no EAGLE
 
