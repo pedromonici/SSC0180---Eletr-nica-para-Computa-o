@@ -42,7 +42,7 @@ http://tinyurl.com/yc745h6d
   E para ![equation](https://latex.codecogs.com/gif.latex?12V), utilizando ![equation](https://latex.codecogs.com/gif.latex?714%5COmega), ![equation](https://latex.codecogs.com/gif.latex?R2%5Ccong%205k%5COmega).
 	
 ### Video da simulação do projeto
-https://youtu.be/yiT338iD_G4
+https://youtu.be/dQlkS4CVClo
 
 ### Componentes:
 * Diodo (x6) - R$ 0,66
