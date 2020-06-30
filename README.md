@@ -33,7 +33,7 @@ http://tinyurl.com/ydc6hb5x
 	- ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D) é a tensão de saída.
 	- ![equation](https://latex.codecogs.com/gif.latex?R1) é um resistor.
 	- ![equation](https://latex.codecogs.com/gif.latex?R2) é o potênciometro.
-	- ![equation](https://latex.codecogs.com/gif.latex?R2%27) é a resistência do potênciômetro.
+	- ![equation](https://latex.codecogs.com/gif.latex?R2%27) é a resistência em série do potênciômetro.
   
   Assim, para obter ![equation](https://latex.codecogs.com/gif.latex?3V) na saída com o potênciometro em seu valor mínimo e ![equation](https://latex.codecogs.com/gif.latex?12V) com o potênciometro em seu valor máximo, os seguintes valores são necessários para satisfazer a equação:
   
