@@ -19,7 +19,7 @@ http://tinyurl.com/yacq4228
   
   Assumindo ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3C%5Cfrac%7B1%7D%7B100%7D) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
   
-  ![equation](https://latex.codecogs.com/gif.latex?C%3E%5Cfrac%7B1%7D%7B132%7D%5CRightarrow%20C%3E7.6%5Ccdot%2010%5E%7B-3%7D)
+  ![equation](https://latex.codecogs.com/gif.latex?C%3E%5Cfrac%7B1%7D%7B132%7D%5CRightarrow%20C%3E7.6%5Ccdot%2010%5E%7B-3%7DF)
   
   Dessa forma, um Capacitor de ![equation](https://latex.codecogs.com/gif.latex?8F) é suficiente para a fonte do projeto.
 
