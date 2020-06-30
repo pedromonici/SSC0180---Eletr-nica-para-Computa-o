@@ -8,7 +8,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 ![Circuito](cirtcuito.png)
 
 ### Link para o circuito
-http://tinyurl.com/y9wgl6ft
+http://tinyurl.com/yacq4228
 
 ### Explicação dos valores escolhidos:
 - Capacitor:
@@ -46,12 +46,12 @@ https://youtu.be/yiT338iD_G4
 
 ### Componentes:
 * Diodo (x6) - R$ 0,66
-* Transformador 110v para 12v - R$ 35,00
+* Transformador 110v para 24v - R$ 29,90
 * Capacitor 100μF - R$ 0,10
 * Capacitor 10μF (x3) - R$ 0,42
 * Potenciômetro 5kΩ - R$ 1,09
+* Resistor 110Ω - R$ 0,12
 * Resistor 1kΩ - R$ 0,08
-* Resistor 700Ω (a partir de (1x) 1kΩ + (1x) 100Ω em paralelo com (2x) 220Ω + (1x) 100Ω) - R$ 0,40
 * LM 317 - R$ 2,75
 * **TOTAL: R$ 40,50**
 
