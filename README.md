@@ -54,7 +54,8 @@ https://youtu.be/yiT338iD_G4
 * Resistor 110Ω - R$ 0,12
 * Resistor 1kΩ - R$ 0,08
 * LM 317 - R$ 2,75
-* **TOTAL: R$ 40,50**
+* Fusível - R$ 0,42
+* **TOTAL: R$ 39,38**
 
 ## Esquemático do circuito no EAGLE
 
