@@ -54,7 +54,7 @@ https://youtu.be/yiT338iD_G4
 * Resistor 110Ω - R$ 0,12
 * Resistor 1kΩ - R$ 0,08
 * LM 317 - R$ 2,75
-* **TOTAL: R$ 40,50**
+* **TOTAL: R$ 38,96**
 
 ## Esquemático do circuito no EAGLE
 
