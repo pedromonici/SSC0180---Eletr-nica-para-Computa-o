@@ -5,7 +5,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 
 ## Diagrama da Fonte
 
-![Circuito](FonteCircuito.png)
+![Circuito](cirtcuito.png)
 
 ### Link para o circuito
 http://tinyurl.com/yacq4228
