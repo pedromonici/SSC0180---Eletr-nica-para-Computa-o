@@ -17,9 +17,9 @@ http://tinyurl.com/yacq4228
   
   ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3D%20%5Cfrac%7B1%7D%7B2.f.C.R%7D) 
   
-  Assumindo ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3C%5Cfrac%7B1%7D%7B100%7D) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz) e ![equation](https://latex.codecogs.com/gif.latex?R%3D110%5COmega), temos:
+  Assumindo ![equation](https://latex.codecogs.com/gif.latex?%5CDelta%20V%20%3C%5Cfrac%7B1%7D%7B100%7D) e sabendo que ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%2060Hz), temos:
   
-  ![equation](https://latex.codecogs.com/gif.latex?C%3E%5Cfrac%7B1%7D%7B132%7D%5CRightarrow%20C%3E7.6%5Ccdot%2010%5E%7B-3%7D)
+  ![equation](https://latex.codecogs.com/gif.latex?C%3E%5Cfrac%7B1%7D%7B12%7D%5Ccdot%2010%5E%7B-4%7D%5CRightarrow%20C%3E8.3%5Ccdot%2010%5E%7B-5%7D)
   
   Dessa forma, um Capacitor de ![equation](https://latex.codecogs.com/gif.latex?80%5Cmu%20F) é suficiente para a fonte do projeto.
 
@@ -49,6 +49,7 @@ https://youtu.be/yiT338iD_G4
 * Transformador 110v para 24v - R$ 29,90
 * Capacitor 100μF - R$ 0,10
 * Capacitor 10μF (x3) - R$ 0,42
+* Capacitor de 8mF (1mF x 8) - R$ 3,84
 * Potenciômetro 5kΩ - R$ 1,09
 * Resistor 110Ω - R$ 0,12
 * Resistor 1kΩ - R$ 0,08
