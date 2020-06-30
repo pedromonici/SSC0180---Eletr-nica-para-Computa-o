@@ -6,7 +6,7 @@ Projeto de uma Fonte de Tensão entre 3V a 12V com capacidade de 100mA
 ## Diagrama da Fonte
 
 ![Circuito](circuito.png)
-
+*NOTA: A resistência de 30 ohms que pode ser vista no circuito é apenas uma forma de representar a presença do regulador de tensão LM 317. A única função dessa resistência é causar uma queda de tensão similar a do LM 317 que permite a simulação no falstad*
 ### Link para o circuito
 http://tinyurl.com/yc745h6d
 
