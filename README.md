@@ -49,7 +49,7 @@ https://youtu.be/yiT338iD_G4
 * Transformador 110v para 12v - R$ 35,00
 * Capacitor 100μF - R$ 0,10
 * Capacitor 10μF (x3) - R$ 0,42
-* Potenciômetro 6kΩ - R$ 1,09
+* Potenciômetro 5kΩ - R$ 1,09
 * Resistor 1kΩ - R$ 0,08
 * Resistor 700Ω (a partir de (1x) 1kΩ + (1x) 100Ω em paralelo com (2x) 220Ω + (1x) 100Ω) - R$ 0,40
 * LM 317 - R$ 2,75
