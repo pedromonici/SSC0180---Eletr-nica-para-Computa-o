@@ -27,7 +27,7 @@ http://tinyurl.com/ydc6hb5x
   
   A partir da datasheet da "Texas Instruments"(https://tinyurl.com/y7voskoq), obtêm-se a fórmula:
 
-  ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D%3D1.25%5Ccdot%20%5Cleft%20%28%201&plus;%5Cfrac%7BR2&plus;R2%27%7D%7BR1%7D%20%5Cright%20%29&plus;%20%5Cleft%28%2050%5Ccdot%2010%5E%7B-6%7D%5Ccdot%20%5Cleft%20%28%20%5Cfrac%7BR2%7D%7BR2%27%7D%20%5Cright%20%29%5Cright%20%29)
+  ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D%3D1.25%5Ccdot%20%5Cleft%20%28%201&plus;%5Cfrac%7BR2&plus;R2%27%7D%7BR1%7D%20%5Cright%20%29&plus;%20%5Cleft%28%2050%5Ccdot%2010%5E%7B-6%7D%5Ccdot%20%5Cleft%20%28%20R2&plus;R2%27%20%5Cright%20%29%5Cright%20%29)
 	
   Onde:
 	- ![equation](https://latex.codecogs.com/gif.latex?V_%7Bs%7D) é a tensão de saída.
