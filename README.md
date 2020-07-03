@@ -21,7 +21,7 @@ http://tinyurl.com/yc745h6d
   
   ![equation](https://latex.codecogs.com/gif.latex?C%3E%5Cfrac%7B1%7D%7B132%7D%5CRightarrow%20C%3E7.6%5Ccdot%2010%5E%7B-3%7DF)
   
-  Dessa forma, um Capacitor de ![equation](https://latex.codecogs.com/gif.latex?8%5Cmu%20F) é suficiente para a fonte do projeto.
+  Dessa forma, um Capacitor de ![equation](https://latex.codecogs.com/gif.latex?8mF) é suficiente para a fonte do projeto.
 
 - Circuito Regulador de Tensão:
   
